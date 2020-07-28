@@ -189,7 +189,28 @@ nums2 = [3, 4]
 
 输入为0的时候输出格式神坑
 
+## 104 [ 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)
 
+难度简单634收藏分享切换为英文关注反馈
+
+给定一个二叉树，找出其最大深度。
+
+二叉树的深度为根节点到最远叶子节点的最长路径上的节点数。
+
+**说明:** 叶子节点是指没有子节点的节点。
+
+**示例：**
+给定二叉树 `[3,9,20,null,null,15,7]`，
+
+```
+    3
+   / \
+  9  20
+    /  \
+   15   7
+```
+
+返回它的最大深度 3 。
 
 ## 167 [ 两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/)
 
